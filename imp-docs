@@ -1,2 +1,3 @@
 https://cloud.google.com/architecture/using-jenkins-for-distributed-builds-on-compute-engine // cicd
 https://ziimm.medium.com/set-up-a-ci-cd-pipeline-with-nodejs-jenkins-and-google-cloud-cc63b7ed9f41 // jenkins set up
+https://blog.searce.com/jenkins-ci-cd-to-update-gcp-mig-instance-using-cloudbuild-f6d9ade51ee4// Task-2
