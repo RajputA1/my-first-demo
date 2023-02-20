@@ -1,4 +1,4 @@
-steps:
+steps
 - name: "gcr.io/cloud-builders/docker"
   args: ["build", "-t", "gcr.io/project-demo-376608/nginx:v1", "."]
 - name: "gcr.io/cloud-builders/docker"
